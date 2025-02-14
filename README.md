@@ -2,5 +2,5 @@
 
 Test
 
-https://markus-uk.github.io/tabi_travel_planner/docs/ItineraryAppIdeas.html
+https://markusuk.github.io/tabi_travel_planner/docs/ItineraryAppIdeas.html
 
