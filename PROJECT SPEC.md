@@ -1,8 +1,8 @@
 ## 1️⃣ Project Overview  
 
-💎**App Name:** Tabi - Trip Planner 🎌 
+💎**App Name:** Tabi - Trip Planner 🎌       
 💎**Purpose:** A travel itinerary planner to organize trips, hotels, flights, and activities.  
-💎**Designs:** - https://markusuk.github.io/tabi_travel_planner/ItineraryAppIdeas.html
+💎**Designs:** https://markusuk.github.io/tabi_travel_planner/ItineraryAppIdeas.html
 
 ## 2️⃣ Core Features  
 
