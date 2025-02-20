@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "b81b338f66318209",
+    "type": "split",
+    "children": [
+      {
+        "id": "302f9780404ce850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae4fb2f5639da8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT SPEC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROJECT SPEC"
+            }
+          },
+          {
+            "id": "10941e60e5c7c0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT SPEC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROJECT SPEC"
+            }
+          },
+          {
+            "id": "c471cd7efa4f19a9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://markusuk.github.io/tabi_travel_planner/ItineraryAppIdeas.html",
+                "title": "markusuk.github.io/tabi_travel_planner/ItineraryAppIdeas.html",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "markusuk.github.io/tabi_travel_planner/ItineraryAppIdeas.html"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9c04228563badde",
+    "type": "split",
+    "children": [
+      {
+        "id": "0199afa983ba9502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32b8d723a8208bf8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a438770cc270cbd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b86e537538f8e764",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "742cfc4e9847c0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "eada6841f09ca6ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85e6f5a1b9679417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6883bb706616f680",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c44aeae46e281451",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "814978b4d05bdc20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROJECT SPEC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PROJECT SPEC"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "10941e60e5c7c0d7",
+  "lastOpenFiles": [
+    "README.md",
+    "PROJECT SPEC.md",
+    "Excalidraw/Drawing 2025-02-20 14.06.45.excalidraw.md",
+    "Excalidraw"
+  ]
+}
