@@ -20,7 +20,7 @@
 💎**Database:** PostgreSQL  
 💎**Authentication:** OAuth2  
 💎**Deployment/Hosting:** Self-hosted in Docker  
-💎Logging & Monitoring:** Sentry  
+💎**Logging & Monitoring:** Sentry  
 
 
 ## 4️⃣ Development Plan  
