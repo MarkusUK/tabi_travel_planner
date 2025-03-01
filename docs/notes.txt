@@ -1,0 +1,31 @@
+Backend structure/ideas
+
+tabi_backend/
+│── main.go                # Entry point
+│── go.mod                 # Go module file
+│── go.sum                 # Dependencies lock file
+│── config/                # Configuration files (env, DB settings)
+│   ├── config.go
+│── models/                # Database models
+│   ├── trip.go
+│   ├── user.go
+│── routes/                # Route handlers
+│   ├── trip_routes.go
+│   ├── user_routes.go
+│── controllers/           # Business logic for routes
+│   ├── trip_controller.go
+│   ├── user_controller.go
+│── services/              # Services (DB interactions, external APIs)
+│   ├── trip_service.go
+│   ├── user_service.go
+│── database/              # Database connection setup
+│   ├── database.go
+│── middleware/            # Authentication, logging, etc.
+│   ├── auth_middleware.go
+│── docs/                  # Swagger API documentation
+│── docker/                # Docker-related setup
+│   ├── Dockerfile
+│   ├── docker-compose.yml
+│── .env                   # Environment variables
+│── .gitignore             # Ignore files like .env, binaries, etc.
+│── README.md              # Documentation
