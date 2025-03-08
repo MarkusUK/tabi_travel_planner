@@ -17,7 +17,7 @@
 
 💎**Frontend:** Flutter/Dart  
 💎**Backend:** Go + Gin  
-💎**Database:** PostgreSQL  
+💎**Database:** PostgreSQL / gORM
 💎**Authentication:** OAuth2  
 💎**Deployment/Hosting:** Self-hosted in Docker  
 💎**Logging & Monitoring:** Sentry  
