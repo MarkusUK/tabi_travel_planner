@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afdd4f868c2c0c25",
+            "id": "c7d74c45ef49d078",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "c7d74c45ef49d078",
+            "id": "2d4a84cdb48f705b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "PROJECT SPEC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/PROJECT SPEC.md",
+                "file": "docs/TECHNICAL SPEC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PROJECT SPEC"
+              "title": "Outline of TECHNICAL SPEC"
             }
           }
         ],
@@ -169,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +183,9 @@
   },
   "active": "c7d74c45ef49d078",
   "lastOpenFiles": [
+    "docs/PROJECT SPEC.md",
     "docs/TECHNICAL SPEC.md",
+    "backend/1.txt",
     "backend/tabi_core/tabi_core.exe",
     "backend/tabi_core/main.go",
     "backend/tabi_core/go.sum",
@@ -194,8 +195,6 @@
     "backend/go.mod",
     "go.sum",
     "go.mod",
-    "docs/notes.txt",
-    "docs/PROJECT SPEC.md",
     "PROJECT SPEC.md",
     "TECHNICAL SPEC.md",
     "README.md",
